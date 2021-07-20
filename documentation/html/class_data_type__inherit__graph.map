@@ -1,0 +1,5 @@
+<map id="DataType" name="DataType">
+<area shape="rect" id="node1" title="DataType е интерфейс, използван от видовете бази данни в приложението &#45; тази пазеща всички регистрира..." alt="" coords="31,5,137,112"/>
+<area shape="rect" id="node2" href="$class_login_info.html" title="LoginInfo е клас съдържащ информацията, която потребителите въвеждат при регистрация или вход във веч..." alt="" coords="5,160,163,516"/>
+<area shape="rect" id="node3" href="$class_profile.html" title="Profile е класът съдържащ цялата информация за съответен регистриран профил" alt="" coords="5,564,163,993"/>
+</map>

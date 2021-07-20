@@ -1,0 +1,7 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="Component е интерфейс използван от LoginInfo, TripInfo, Profile и Destination." alt="" coords="187,5,344,171"/>
+<area shape="rect" id="node2" href="$class_destination.html" title="Класът Destination описва всяка уникална дестинация посетена от потребителите в приложението" alt="" coords="5,233,163,604"/>
+<area shape="rect" id="node3" href="$class_login_info.html" title="LoginInfo е клас съдържащ информацията, която потребителите въвеждат при регистрация или вход във веч..." alt="" coords="187,241,344,597"/>
+<area shape="rect" id="node5" href="$class_trip.html" title="Trip е клас съдържат в себе си за всяка една разходка, която потребителите документират в приложениет..." alt="" coords="368,219,525,619"/>
+<area shape="rect" id="node4" href="$class_profile.html" title="Profile е класът съдържащ цялата информация за съответен регистриран профил" alt="" coords="187,667,344,1096"/>
+</map>

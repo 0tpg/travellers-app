@@ -1,0 +1,4 @@
+<map id="Trip" name="Trip">
+<area shape="rect" id="node1" title="Trip е клас съдържат в себе си за всяка една разходка, която потребителите документират в приложениет..." alt="" coords="5,219,163,619"/>
+<area shape="rect" id="node2" href="$class_component.html" title="Component е интерфейс използван от LoginInfo, TripInfo, Profile и Destination." alt="" coords="5,5,163,171"/>
+</map>

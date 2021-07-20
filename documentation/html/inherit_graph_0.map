@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_component.html" title="Component е интерфейс използван от LoginInfo, TripInfo, Profile и Destination." alt="" coords="5,56,93,83"/>
+<area shape="rect" id="node2" href="$class_destination.html" title="Класът Destination описва всяка уникална дестинация посетена от потребителите в приложението" alt="" coords="141,5,228,32"/>
+<area shape="rect" id="node3" href="$class_login_info.html" title="LoginInfo е клас съдържащ информацията, която потребителите въвеждат при регистрация или вход във веч..." alt="" coords="148,107,221,133"/>
+<area shape="rect" id="node5" href="$class_trip.html" title="Trip е клас съдържат в себе си за всяка една разходка, която потребителите документират в приложениет..." alt="" coords="163,56,206,83"/>
+<area shape="rect" id="node4" href="$class_profile.html" title="Profile е класът съдържащ цялата информация за съответен регистриран профил" alt="" coords="276,107,335,133"/>
+<area shape="rect" id="node6" href="$class_data_type.html" title="DataType е интерфейс, използван от видовете бази данни в приложението &#45; тази пазеща всички регистрира..." alt="" coords="11,107,88,133"/>
+</map>

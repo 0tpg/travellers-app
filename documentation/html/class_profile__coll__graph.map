@@ -1,0 +1,6 @@
+<map id="Profile" name="Profile">
+<area shape="rect" id="node1" title="Profile е класът съдържащ цялата информация за съответен регистриран профил" alt="" coords="57,623,214,1052"/>
+<area shape="rect" id="node2" href="$class_login_info.html" title="LoginInfo е клас съдържащ информацията, която потребителите въвеждат при регистрация или вход във веч..." alt="" coords="57,219,214,575"/>
+<area shape="rect" id="node3" href="$class_data_type.html" title="DataType е интерфейс, използван от видовете бази данни в приложението &#45; тази пазеща всички регистрира..." alt="" coords="5,35,111,141"/>
+<area shape="rect" id="node4" href="$class_component.html" title="Component е интерфейс използван от LoginInfo, TripInfo, Profile и Destination." alt="" coords="135,5,293,171"/>
+</map>

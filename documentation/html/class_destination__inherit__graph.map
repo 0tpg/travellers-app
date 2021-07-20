@@ -1,0 +1,4 @@
+<map id="Destination" name="Destination">
+<area shape="rect" id="node1" title="Класът Destination описва всяка уникална дестинация посетена от потребителите в приложението" alt="" coords="5,219,163,589"/>
+<area shape="rect" id="node2" href="$class_component.html" title="Component е интерфейс използван от LoginInfo, TripInfo, Profile и Destination." alt="" coords="5,5,163,171"/>
+</map>
